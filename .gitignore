@@ -4,5 +4,8 @@ data
 *.txt
 *.pt
 gif
+*.rpt
+*.npy
+*.mat
 
 __pycache__
